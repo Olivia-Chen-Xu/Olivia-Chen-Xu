@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hello World! 👋 👋 👋
 
+- My name is Olivia Xu, and I'm studying CS with an AI specialization at Queen's University 👑 , Canada :canada:. 
+- I was the one of the recipients of Canada's most coveted STEM scholarship, the Schulich Leaders Scholarship.
+- I've learned on my own Java, Python, HTML/CSS/JS, MongoDB, Express.js, React/Redux and Node.js.
+- I'm looking forward to learning more about AI and ML!
+- I used to be a vocational-level ballet dancer and guitar player, and I also love creating art! 
+  Please check out my art portfolio here: https://oliviachenxu.wixsite.com/artportfolio1280800
+- I'm always down for side projects and hackathons, so please reach out to me if you would like to team up!
+- Email: oliviachenxu@gmail.com
 <!--
 **Olivia-Chen-Xu/Olivia-Chen-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
