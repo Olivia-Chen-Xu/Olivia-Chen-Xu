@@ -6,6 +6,7 @@
 - 🧠 I'm looking forward to learning more about AI and ML!
 - I used to be a vocational-level ballet dancer :dancer: and guitar player 🎸, and I also love creating art 🎨 ! 
   📎 Please check out my art portfolio here: https://oliviachenxu.wixsite.com/artportfolio1280800
+- I LOVE hackathons! Only did 3️⃣ but won all 3️⃣ 🥇 🥇. Check out my Devpost here: [link](https://devpost.com/oliviachenxu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - I'm always down for side projects and hackathons, so please reach out to me if you would like to team up!
 - 📫 Email: oliviachenxu@gmail.com
 <!--
