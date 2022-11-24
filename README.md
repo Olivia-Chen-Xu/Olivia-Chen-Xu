@@ -2,8 +2,8 @@
 
 - My name is Olivia Xu, and I'm studying CS with an AI specialization at Queen's University 👑 , Canada :canada:. 
 - :sparkles: I was the one of the recipients of Canada's most coveted STEM scholarship, the Schulich Leaders Scholarship.
-- 🔭  I've learned on my own Java, Python, HTML/CSS/JS, MongoDB, Express.js, React/Redux and Node.js.
-- 🧠 I'm looking forward to learning more about AI and ML!
+- 🧠 I'm currently the Managing Director of QMIND, the largest AI undergraduate organization in Canada.
+- 💪🏻 I'm increasing interested in the society impact of AI.
 - I used to be a vocational-level ballet dancer :dancer: and guitar player 🎸, and I also love creating art 🎨 ! 
   📎 Please check out my art portfolio here: https://oliviachenxu.wixsite.com/artportfolio1280800
 - I LOVE hackathons! Only did 3️⃣ but won all 3️⃣ 🥇 🥇. Check out my Devpost here: [link](https://devpost.com/oliviachenxu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
